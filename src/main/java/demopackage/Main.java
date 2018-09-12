@@ -121,7 +121,7 @@ public class Main {
         while(name1 == "bob"){
             System.out.println("Welcome bob have a great day ");
 
-        }while(name)
+        }while(name) = ""
         }
 
 
